@@ -1,4 +1,4 @@
-package NyLotto;
+package Lotto;
 
 import java.text.SimpleDateFormat;
 import java.util.Random;
@@ -21,7 +21,7 @@ public class Numbers {
 
     public static void main(String[] args) {
 
-        System.out.println("\n                            [ WELCOME TO THE NY LOTTO ] \n " +
+        System.out.println("\n                            [ WELCOME TO THE METRO LOTTO ] \n " +
                 "Today at " + formatter.format(date) + ", we will be presenting the winning numbers right now. " +
                 "\n                                 Good Luck!");
 
