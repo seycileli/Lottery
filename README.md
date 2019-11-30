@@ -2,6 +2,8 @@
 
 This is a very simple code that I created for my father since he loves to play lol.
 
+This lotto simulator will generate 3 & 4 random numbers between 0-9
+
 The first method will generate 3 random numbers
 The second method will generate 4 random numbers
 
